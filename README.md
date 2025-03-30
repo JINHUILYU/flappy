@@ -19,12 +19,15 @@
 ## 游戏截图
 
 1. Menu 
+
    ![Menu](./images/menu.png)
 
 2. Playing
+
    ![Playing](./images/playing.png)
 
 3. Game Over
+
    ![Game Over](./images/gameover.png)
 
 ## 依赖
